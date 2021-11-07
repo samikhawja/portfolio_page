@@ -96,9 +96,9 @@ Sami Khawja: Skhawja11@gmail.com
 
 
 ## Project Links
-Project Link: [GitHub](https://github.com/samikhawja/updated_portfolio_page)
+Project Link: [GitHub](https://github.com/samikhawja/portfolio_page)
 
-Live Link: [Project One](https://samikhawja.github.io/updated_portfolio_page/)
+Live Link: [Project One](https://samikhawja.github.io/portfolio_page/)
 
 
 
